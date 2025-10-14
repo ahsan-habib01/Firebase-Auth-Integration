@@ -1,0 +1,6 @@
+@import 'tailwindcss';
+@plugin "daisyui";
+
+.menu a.active {
+  @apply border-b-2 border-amber-700;
+}
