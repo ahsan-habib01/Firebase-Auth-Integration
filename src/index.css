@@ -2,5 +2,5 @@
 @plugin "daisyui";
 
 .menu a.active {
-  @apply border-b-2 border-amber-700;
+  @apply border-2 text-black bg-amber-200 border-amber-300;
 }
